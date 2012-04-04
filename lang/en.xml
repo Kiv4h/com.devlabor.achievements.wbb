@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language languagecode="en" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com/XSD/language.xsd">
+    <category name="wbb.achievement">
+        <item name="wbb.achievement.category.board"><![CDATA[Board]]></item>
+        <item name="wbb.achievement.category.board.description"><![CDATA[]]></item>
+		
+        <item name="wbb.achievement.posts.10"><![CDATA[Words speaks more than thousand pictures]]></item>
+		<item name="wbb.achievement.posts.10.description"><![CDATA[Write ten postings.]]></item>
+		<item name="wbb.achievement.posts.100"><![CDATA[Words speaks more than thousand pictures]]></item>
+		<item name="wbb.achievement.posts.100.description"><![CDATA[Write hundred postings.]]></item>
+		<item name="wbb.achievement.posts.1000"><![CDATA[Words speaks more than thousand pictures]]></item>
+		<item name="wbb.achievement.posts.1000.description"><![CDATA[Write thousand postings.]]></item>
+		<item name="wbb.achievement.posts.10000"><![CDATA[Words speaks more than thousand pictures]]></item>
+		<item name="wbb.achievement.posts.10000.description"><![CDATA[Write ten thousand postings.]]></item>
+		
+		<item name="wbb.achievement.threadreading.10"><![CDATA[Bookworm]]></item>
+		<item name="wbb.achievement.threadreading.10.description"><![CDATA[Read in ten topics.]]></item>
+		<item name="wbb.achievement.threadreading.100"><![CDATA[Bookworm]]></item>
+		<item name="wbb.achievement.threadreading.100.description"><![CDATA[Read in hundred topics.]]></item>
+		<item name="wbb.achievement.threadreading.1000"><![CDATA[Bookworm]]></item>
+		<item name="wbb.achievement.threadreading.1000.description"><![CDATA[Read in thousand topics.]]></item>
+		<item name="wbb.achievement.threadreading.5000"><![CDATA[Bookworm]]></item>
+		<item name="wbb.achievement.threadreading.5000.description"><![CDATA[Read in five thousand topics.]]></item>
+		<item name="wbb.achievement.threadreading.10000"><![CDATA[Bookworm]]></item>
+		<item name="wbb.achievement.threadreading.10000.description"><![CDATA[Read in ten thousand topics.]]></item>
+		
+		<item name="wbb.achievement.threads.1"><![CDATA[Question and answer]]></item>
+		<item name="wbb.achievement.threads.1.description"><![CDATA[Create a new topic.]]></item>
+		<item name="wbb.achievement.threads.10"><![CDATA[Question and answer]]></item>		
+		<item name="wbb.achievement.threads.10.description"><![CDATA[Create ten new topics.]]></item>
+		<item name="wbb.achievement.threads.50"><![CDATA[Question and answer]]></item>
+		<item name="wbb.achievement.threads.50.description"><![CDATA[Create fifty new topics.]]></item>
+		<item name="wbb.achievement.threads.100"><![CDATA[Question and answer]]></item>
+		<item name="wbb.achievement.threads.100.description"><![CDATA[Create hundred new topics.]]></item>
+		<item name="wbb.achievement.threads.250"><![CDATA[Question and answer]]></item>
+		<item name="wbb.achievement.threads.250.description"><![CDATA[Create two hundred and fifty new topics.]]></item>
+		
+		<item name="wbb.achievement.category.collection"><![CDATA[Meta]]></item>
+		<item name="wbb.achievement.category.collection.description"><![CDATA[]]></item>		
+		<item name="wbb.achievement.board.collection"><![CDATA[Mother of Board]]></item>
+		<item name="wbb.achievement.board.collection.description"><![CDATA[Earn all achievements listed below.]]></item>
+	</category>
+		
+	<category name="wbb.achievement.reward">
+		<item name="wbb.achievement.reward.board.collection.rank"><![CDATA[Mother of Board]]></item>
+	</category>	
+</language>

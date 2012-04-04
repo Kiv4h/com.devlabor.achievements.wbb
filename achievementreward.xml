@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.devlabor.com/XSD/achievement-object.xsd">
+	<import>
+		<reward>
+			<name>board.collection.rank</name>
+			<type>UserRank</type>
+			<value>wbb.achievement.reward.board.collection.rank</value>
+		</reward>
+	</import>
+</data>

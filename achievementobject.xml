@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com/XSD/achievement-object.xsd">
+	<import>
+		<categories>
+			<category name="board">
+				<parent></parent>
+			</category>		
+		</categories>
+		<objects>
+			<object>
+				<name>BoardPosts</name>
+				<parent>board</parent>
+				<eventclassname>PostAddForm</eventclassname>
+				<eventname>saved</eventname>
+				<classfile>lib/data/user/achievement/object/BoardPostsAchievementObject.class.php</classfile>
+				<languagecategory>wbb.achievement</languagecategory>
+			</object>
+			<object>
+				<name>BoardThreads</name>
+				<parent>board</parent>
+				<eventclassname>ThreadAddForm</eventclassname>
+				<eventname>saved</eventname>
+				<classfile>lib/data/user/achievement/object/BoardThreadsAchievementObject.class.php</classfile>
+				<languagecategory>wbb.achievement</languagecategory>
+			</object>	
+			<object>
+				<name>BoardThreadReadings</name>
+				<parent>board</parent>
+				<eventclassname>ThreadPage</eventclassname>
+				<eventname>show</eventname>
+				<classfile>lib/data/user/achievement/object/BoardThreadReadingsAchievementObject.class.php</classfile>
+				<languagecategory>wbb.achievement</languagecategory>
+			</object>	
+			<object>
+				<name>BoardCollection</name>
+				<parent>collection</parent>
+				<eventclassname>Achievement</eventclassname>
+				<eventname>awardToUser</eventname>
+				<classfile>lib/data/user/achievement/object/BoardCollectionAchievementObject.class.php</classfile>
+				<languagecategory>wbb.achievement</languagecategory>
+			</object>
+		</objects>
+	</import>
+</data>

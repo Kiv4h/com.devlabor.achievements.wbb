@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language languagecode="de" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com/XSD/language.xsd">
+    <category name="wbb.achievement">
+        <item name="wbb.achievement.category.board"><![CDATA[Forum]]></item>
+        <item name="wbb.achievement.category.board.description"><![CDATA[]]></item>
+		
+        <item name="wbb.achievement.posts.10"><![CDATA[Wörter sagen mehr als tausend Bilder]]></item>
+		<item name="wbb.achievement.posts.10.description"><![CDATA[Schreiben Sie zehn Beiträge.]]></item>
+		<item name="wbb.achievement.posts.100"><![CDATA[Wörter sagen mehr als tausend Bilder]]></item>
+		<item name="wbb.achievement.posts.100.description"><![CDATA[Schreiben Sie hundert Beiträge.]]></item>
+		<item name="wbb.achievement.posts.1000"><![CDATA[Wörter sagen mehr als tausend Bilder]]></item>
+		<item name="wbb.achievement.posts.1000.description"><![CDATA[Schreiben Sie tausend Beiträge.]]></item>
+		<item name="wbb.achievement.posts.10000"><![CDATA[Wörter sagen mehr als tausend Bilder]]></item>
+		<item name="wbb.achievement.posts.10000.description"><![CDATA[Schreiben Sie zehntausend Beiträge.]]></item>
+		
+		<item name="wbb.achievement.threadreading.10"><![CDATA[Bücherwurm]]></item>
+		<item name="wbb.achievement.threadreading.10.description"><![CDATA[Lesen Sie in zehn Themen.]]></item>
+		<item name="wbb.achievement.threadreading.100"><![CDATA[Bücherwurm]]></item>
+		<item name="wbb.achievement.threadreading.100.description"><![CDATA[Lesen Sie in hundert Themen.]]></item>
+		<item name="wbb.achievement.threadreading.1000"><![CDATA[Bücherwurm]]></item>
+		<item name="wbb.achievement.threadreading.1000.description"><![CDATA[Lesen Sie in tausend Themen.]]></item>
+		<item name="wbb.achievement.threadreading.5000"><![CDATA[Bücherwurm]]></item>
+		<item name="wbb.achievement.threadreading.5000.description"><![CDATA[Lesen Sie in fünftausend Themen.]]></item>
+		<item name="wbb.achievement.threadreading.10000"><![CDATA[Bücherwurm]]></item>
+		<item name="wbb.achievement.threadreading.10000.description"><![CDATA[Lesen Sie in zehntausend Themen.]]></item>
+		
+		<item name="wbb.achievement.threads.1"><![CDATA[Rede und Antwort]]></item>
+		<item name="wbb.achievement.threads.1.description"><![CDATA[Erstellen Sie ein neues Thema.]]></item>
+		<item name="wbb.achievement.threads.10"><![CDATA[Rede und Antwort]]></item>		
+		<item name="wbb.achievement.threads.10.description"><![CDATA[Erstellen Sie zehn neue Themen.]]></item>
+		<item name="wbb.achievement.threads.50"><![CDATA[Rede und Antwort]]></item>
+		<item name="wbb.achievement.threads.50.description"><![CDATA[Erstellen Sie 50 neue Themen.]]></item>
+		<item name="wbb.achievement.threads.100"><![CDATA[Rede und Antwort]]></item>
+		<item name="wbb.achievement.threads.100.description"><![CDATA[Erstellen Sie 100 neue Themen.]]></item>
+		<item name="wbb.achievement.threads.250"><![CDATA[Rede und Antwort]]></item>
+		<item name="wbb.achievement.threads.250.description"><![CDATA[Erstellen Sie 250 neue Themen.]]></item>
+		
+		<item name="wbb.achievement.category.collection"><![CDATA[Meta]]></item>
+		<item name="wbb.achievement.category.collection.description"><![CDATA[]]></item>		
+		<item name="wbb.achievement.board.collection"><![CDATA[Der Forengott]]></item>
+		<item name="wbb.achievement.board.collection.description"><![CDATA[Erreichen Sie alle unten aufgelisteten Erfolge.]]></item>
+	</category>
+		
+	<category name="wbb.achievement.reward">
+		<item name="wbb.achievement.reward.board.collection.rank"><![CDATA[Forengott]]></item>
+	</category>	
+</language>
