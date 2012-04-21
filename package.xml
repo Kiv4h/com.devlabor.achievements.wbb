@@ -23,8 +23,8 @@
 	
 	<optionalpackages>
 		<optionalpackage file="optional/com.devlabor.achievements.commercial.tar.gz">com.devlabor.achievements.commercial</optionalpackage>		
-		<optionalpackage file="optional/com.devlabor.achievements.wbb.recentActivityBox.tar.gz">com.devlabor.achievements.wbb.recentActivityBox</optionalpackage>
-		<optionalpackage file="optional/com.devlabor.achievements.wbb.portal.tar.gz">com.devlabor.achievements.wbb.portal</optionalpackage>
+		<optionalpackage minversion="1.0.2" file="optional/com.devlabor.achievements.wbb.recentActivityBox.tar.gz">com.devlabor.achievements.wbb.recentActivityBox</optionalpackage>
+		<optionalpackage minversion="1.0.2" file="optional/com.devlabor.achievements.wbb.portal.tar.gz">com.devlabor.achievements.wbb.portal</optionalpackage>
 	</optionalpackages>
 
 	<instructions type="install">
@@ -45,6 +45,6 @@
 	</instructions>	
 	
 	<instructions type="update" fromversion="1.0.1">
-	</instructions>
+	</instructions>	
 </package>
 
