@@ -5,7 +5,7 @@
 		<packagedescription languagecode="de"><![CDATA[]]></packagedescription>
 		<packagedescription languagecode="de-informal"><![CDATA[]]></packagedescription>
 		<packagedescription languagecode="en"><![CDATA[]]></packagedescription>
-		<version>1.0.2</version>
+		<version>1.0.3</version>
 		<date>2012-01-29</date>
 		<plugin>com.woltlab.wbb</plugin>
 	</packageinformation>
@@ -18,7 +18,7 @@
   	<requiredpackages>
 		<requiredpackage minversion="1.1.2">com.woltlab.wcf</requiredpackage>
         <requiredpackage minversion="2.1.0">com.woltlab.wbb</requiredpackage>
-        <requiredpackage minversion="1.0.2" file="required/com.devlabor.achievements.tar.gz">com.devlabor.achievements</requiredpackage>
+        <requiredpackage minversion="1.0.3" file="required/com.devlabor.achievements.tar.gz">com.devlabor.achievements</requiredpackage>
 	</requiredpackages>
 	
 	<optionalpackages>
@@ -40,11 +40,8 @@
 		<languages languagecode="en">lang/en.xml</languages>
 	</instructions>
 	
-	<instructions type="update" fromversion="1.0.0">
+	<instructions type="update" fromversion="1.0.*">
 		<files>files.tar</files>
-	</instructions>	
-	
-	<instructions type="update" fromversion="1.0.1">
-	</instructions>	
+	</instructions>
 </package>
 

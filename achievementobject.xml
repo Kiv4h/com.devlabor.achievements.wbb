@@ -36,7 +36,7 @@
 				<parent>collection</parent>
 				<eventclassname>Achievement</eventclassname>
 				<eventname>awardToUser</eventname>
-				<classfile>lib/data/user/achievement/object/BoardCollectionAchievementObject.class.php</classfile>
+				<classfile>lib/data/user/achievement/object/CollectionAchievementObject.class.php</classfile>
 				<languagecategory>wbb.achievement</languagecategory>
 			</object>
 		</objects>

@@ -2,3 +2,5 @@
 *.gz
 *.tar
 /nbproject
+/required
+/optional
