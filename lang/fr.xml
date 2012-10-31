@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language languagecode="fr" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com/XSD/language.xsd">
+    <category name="wbb.achievement">
+        <item name="wbb.achievement.category.board"><![CDATA[Forum]]></item>
+        <item name="wbb.achievement.category.board.description"><![CDATA[]]></item>
+		
+        <item name="wbb.achievement.posts.10"><![CDATA[Parce qu’un mot vaut mille images !]]></item>
+		<item name="wbb.achievement.posts.10.description"><![CDATA[Postez dix messages.]]></item>
+		<item name="wbb.achievement.posts.100"><![CDATA[Parce qu’un mot vaut mille images !]]></item>
+		<item name="wbb.achievement.posts.100.description"><![CDATA[Postez cent messages.]]></item>
+		<item name="wbb.achievement.posts.1000"><![CDATA[Parce qu’un mot vaut mille images !]]></item>
+		<item name="wbb.achievement.posts.1000.description"><![CDATA[Postez mille messages.]]></item>
+		<item name="wbb.achievement.posts.10000"><![CDATA[Parce qu’un mot vaut mille images !]]></item>
+		<item name="wbb.achievement.posts.10000.description"><![CDATA[Postez dix mille messages.]]></item>
+		
+		<item name="wbb.achievement.threadreading.10"><![CDATA[Rat de bibliothèque !]]></item>
+		<item name="wbb.achievement.threadreading.10.description"><![CDATA[Lisez dix discussions.]]></item>
+		<item name="wbb.achievement.threadreading.100"><![CDATA[Rat de bibliothèque !]]></item>
+		<item name="wbb.achievement.threadreading.100.description"><![CDATA[Lisez cent discussions.]]></item>
+		<item name="wbb.achievement.threadreading.1000"><![CDATA[Rat de bibliothèque !]]></item>
+		<item name="wbb.achievement.threadreading.1000.description"><![CDATA[Lisez mille discussions.]]></item>
+		<item name="wbb.achievement.threadreading.5000"><![CDATA[Rat de bibliothèque !]]></item>
+		<item name="wbb.achievement.threadreading.5000.description"><![CDATA[Lisez cinq mille discussions.]]></item>
+		<item name="wbb.achievement.threadreading.10000"><![CDATA[Rat de bibliothèque !]]></item>
+		<item name="wbb.achievement.threadreading.10000.description"><![CDATA[Lisez dix mille discussions.]]></item>
+		
+		<item name="wbb.achievement.threads.1"><![CDATA[Bavard !]]></item>
+		<item name="wbb.achievement.threads.1.description"><![CDATA[Créez une nouvelle discussion.]]></item>
+		<item name="wbb.achievement.threads.10"><![CDATA[Bavard !]]></item>		
+		<item name="wbb.achievement.threads.10.description"><![CDATA[Créez dix nouvelles discussions.]]></item>
+		<item name="wbb.achievement.threads.50"><![CDATA[Bavard !]]></item>
+		<item name="wbb.achievement.threads.50.description"><![CDATA[Créez cinquante nouvelles discussions.]]></item>
+		<item name="wbb.achievement.threads.100"><![CDATA[Bavard !]]></item>
+		<item name="wbb.achievement.threads.100.description"><![CDATA[Créez cent nouvelles discussions.]]></item>
+		<item name="wbb.achievement.threads.250"><![CDATA[Bavard !]]></item>
+		<item name="wbb.achievement.threads.250.description"><![CDATA[Créez deux cent cinquante nouvelles discussions.]]></item>
+		
+		<item name="wbb.achievement.category.collection"><![CDATA[Spécial]]></item>
+		<item name="wbb.achievement.category.collection.description"><![CDATA[]]></item>		
+		<item name="wbb.achievement.board.collection"><![CDATA[Accro au forum]]></item>
+		<item name="wbb.achievement.board.collection.description"><![CDATA[Acquérez tous les trophées énumérés ci-dessous.]]></item>
+	</category>
+		
+	<category name="wbb.achievement.reward">
+		<item name="wbb.achievement.reward.board.collection.rank"><![CDATA[Accro au forum]]></item>
+	</category>	
+</language>
